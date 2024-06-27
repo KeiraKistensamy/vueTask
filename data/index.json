@@ -1,10 +1,7 @@
 {
     "jobTitles": [
-      {
-        "Title": "Aspiring Developer"
-    },
     {
-
+        "Title": "Aspiring Developer"
     }
     ],
 
@@ -37,22 +34,19 @@
     "skills": [
         {
             "Javascript": "proficiency-basic"
-            
         },
         {
             "GitHub": "proficiency-moderate"
-
         },
         {
             "CSS": "proficiency-basic"
-
         },
         {
             "HTML": "proficiency-basic"
-
+        },
+        {
+            "Javascript": "proficiency-basic"
         }
-
-        
     ],
 
     "testimonials": [
