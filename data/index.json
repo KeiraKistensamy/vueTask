@@ -1,6 +1,11 @@
 {
     "jobTitles": [
-        "Front-end developer"
+      {
+        "Title": "Aspiring Developer"
+    },
+    {
+
+    }
     ],
 
     "about": [
@@ -24,19 +29,30 @@
     "experience": [
         {
             "company": "Pedal Power Association(PPA)",
-            "duration": "2023(parttime)",
+            "duration": "2023(part-time)",
             "responsibilities": "I made sure all racers had valid racing numbers at registration and I handed out medals to each and every cyclist that pasts the finishing line."
         }
     ],
-    
+
     "skills": [
         {
-            "Javascript": "proficiency-basic",
-            "GitHub": "proficiency-moderate",
-            "CSS": "proficiency-basic",
-            "HTML": "proficiency-basic",
-            "VueJS": "proficiency-beginner"
+            "Javascript": "proficiency-basic"
+            
+        },
+        {
+            "GitHub": "proficiency-moderate"
+
+        },
+        {
+            "CSS": "proficiency-basic"
+
+        },
+        {
+            "HTML": "proficiency-basic"
+
         }
+
+        
     ],
 
     "testimonials": [
@@ -74,6 +90,23 @@
 
     "projects": [
         {
+            "id": 1, 
+            "title": "Keyboard",
+            "description": "Created a keyboard to showcase my HTML and CSS skills.",
+            "technologies": ["HTML", "CSS"],
+            "github": "https://github.com/KeiraKistensamy/Keyboard.git",
+            "hosted": "https://keyboard-five-ecru.vercel.app/"
+        },
+        {
+            "id": 2,
+            "title": "Calculator",
+            "description": "Created a calculator to showcase my HTML, Javascript and CSS skills.",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "github": "https://github.com/KeiraKistensamy/CalculatorJS.git",
+            "hosted": "https://calculator-js-orcin.vercel.app/"
+        },
+        {
+            "id": 3,
             "title": "Personal Portfolio",
             "description": "Created a personal portfolio website to showcase my projects and skills.",
             "technologies": ["HTML", "CSS"],
@@ -81,12 +114,12 @@
             "hosted": "https://keira-portfolio.vercel.app/"
         },
         {
+            "id": 4,
             "title": "E-commerce Website",
             "description": "Developed a functional e-commerce website with a shopping cart.",
             "technologies": ["HTML", "CSS", "Javascript"],
             "link": "https://github.com/KeiraKistensamy/iCenterE-com.git",
             "hosted": "https://icenterecom.vercel.app/"
         }
-
     ]
 } 
