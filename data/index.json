@@ -33,19 +33,24 @@
 
     "skills": [
         {
-            "Javascript": "proficiency-basic"
+            "Title": "Javascript",
+            "proficiency": "basic"
         },
         {
-            "GitHub": "proficiency-moderate"
+            "Title": "GitHub",
+            "proficiency": "moderate"
         },
         {
-            "CSS": "proficiency-basic"
+            "Title":"CSS",
+            "proficiency": "basic"
         },
         {
-            "HTML": "proficiency-basic"
+            "Title": "HTML",
+            "proficiency": "basic"
         },
         {
-            "Javascript": "proficiency-basic"
+            "Title": "VueJS",
+            "proficiency": "basic"
         }
     ],
 
