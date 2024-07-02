@@ -11,23 +11,45 @@
         "I am currently a student at Life Choices Academy, studying Software Development.With a thirst for knowledge and passion for excellence, I strive to unlock my full potential andmake the most out of every opportunity I encounter."
     ],
 
-    "education": [
+    "resume": [
         {
-            "School": "Spine Road High School" ,
-            "duration": "2018 to 2022"
+            "company": "Life Choices Academy",
+            "duration": "April 2024 - Current",
+            "responsibilities": "Qualification: Software and Web Development Course." 
         },
-    
         {
-            "School": "School of Fashion",
-            "duration": "2023"
-        }
-    ],
-
-    "experience": [
+            "company": "Volunteered at Cornflower Primary School",
+            "duration": "February 2024 - April 2024",
+            "responsibilities": "I handled planning, finance, registers etc." 
+         
+        },
+        {
+            "company": "Personal Sweets buisness",
+            "duration": "December 2023-current",
+            "responsibilities": "" 
+         
+        },
         {
             "company": "Pedal Power Association(PPA)",
-            "duration": "2023(part-time)",
-            "responsibilities": "I made sure all racers had valid racing numbers at registration and I handed out medals to each and every cyclist that pasts the finishing line."
+            "duration": "Part-time during 2023",
+            "responsibilities": "I made sure that all cyclists were registered to cycle and after they finished the race, I handed out a medal to each participant." 
+         
+        },
+        {
+            "company": "School of Fashion",
+            "duration": "2023",
+            "responsibilities": "I studied fashion designing during 2023 to do as a side hobbie." 
+         
+        },
+        {
+            "company": "Self-owned party decoration buisness",
+            "duration": " 2019-2022 ",
+            "responsibilities": "I planned and decorated birthday parties. I was able to turn an inspiration idea into reality" 
+         
+        },
+        {
+            "company": "Spine Road High School",
+            "duration": " 2018-2022  "    
         }
     ],
 
