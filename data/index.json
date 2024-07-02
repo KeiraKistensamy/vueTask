@@ -34,7 +34,7 @@
     "skills": [
         {
             "Title": "Javascript",
-            "hosted": "https://keirakistensamy.github.io/images/images/JS.png",
+            "hosted": "https://keirakistensamy.github.io/images/images/Javascript.png",
             "proficiency": "basic"
         },
         {
@@ -44,22 +44,22 @@
         },
         {
             "Title":"CSS",
-            "hosted": "https://keirakistensamy.github.io/images/images/CSS.png",
+            "hosted": "https://keirakistensamy.github.io/images/images/CSS2.png",
             "proficiency": "basic"
         },
         {
             "Title": "HTML",
-            "hosted": "https://keirakistensamy.github.io/images/images/HTML.jpg",
+            "hosted": "https://keirakistensamy.github.io/images/images/HTMLBLACK.png",
             "proficiency": "basic"
         },
         {
             "Title": "VueJS",
-            "hosted": "https://keirakistensamy.github.io/images/images/VUE.png",
+            "hosted": "https://keirakistensamy.github.io/images/images/vuejs.png",
             "proficiency": "basic"
         },
         {
             "Title": "Bootstrap",
-            "hosted": "https://keirakistensamy.github.io/images/images/Bootstrap.png",
+            "hosted": "https://keirakistensamy.github.io/images/images/BS.png",
             "proficiency": "moderate"
         }
     ],
