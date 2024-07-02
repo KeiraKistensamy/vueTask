@@ -4,7 +4,7 @@
         "Title": "Aspiring Developer"
     }
     ],
-
+ 
     "about": [
         "I, Keira Kistensamy, am weaving my story with creativity, passion andpurpose. I matriculated in the year 2022, and decided to take a gap year to pursue any smallpassions I had. I studied fashion designing in 2023 and graduated from my courses. I knew i hadto go bigger than that. With a heart fueled by curiosity and a mind brimming with ideas, It tookme some time to brainstormed what i actually wanted to do.",
         "I am a dedicated individual comited to making a positive impact in both my personallife and professional life. My unwavering determination propels me to move forward with myjourney of growth and self-discovery. My infectious energy and genuine kindness leave a mark onthose fortune to cross paths with me, making me a cherished member of any community.",
@@ -34,23 +34,33 @@
     "skills": [
         {
             "Title": "Javascript",
+            "hosted": "https://keirakistensamy.github.io/images/images/JS.png",
             "proficiency": "basic"
         },
         {
             "Title": "GitHub",
+            "hosted": "https://keirakistensamy.github.io/images/images/github.png",
             "proficiency": "moderate"
         },
         {
             "Title":"CSS",
+            "hosted": "https://keirakistensamy.github.io/images/images/CSS.png",
             "proficiency": "basic"
         },
         {
             "Title": "HTML",
+            "hosted": "https://keirakistensamy.github.io/images/images/HTML.jpg",
             "proficiency": "basic"
         },
         {
             "Title": "VueJS",
+            "hosted": "https://keirakistensamy.github.io/images/images/VUE.png",
             "proficiency": "basic"
+        },
+        {
+            "Title": "Bootstrap",
+            "hosted": "https://keirakistensamy.github.io/images/images/Bootstrap.png",
+            "proficiency": "moderate"
         }
     ],
 
