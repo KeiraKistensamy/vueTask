@@ -158,12 +158,12 @@
         },
         {
             "id": 5,
-            "title": "To Do List",
+            "title": "Flip Card",
             "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraKistensamy.png",
-            "description": "I made a to do list that can add items to a list, sort items in a list, scratch out items in a list and delete items in a list.",
-            "technologies": ["HTML", "CSS", "Javascript"],
-            "link": "https://github.com/KeiraKistensamy/todoList.git",
-            "hosted": "https://todo-list-liart-alpha.vercel.app/"
+            "description": "I made a flip card, when you hover over it, it flips and shows more information.",
+            "technologies": ["HTML", "CSS"],
+            "link": "https://github.com/KeiraKistensamy/KeirasFlipCard.git",
+            "hosted": "https://keiras-flip-card.vercel.app/"
         },
         {
             "id": 6,
@@ -185,12 +185,12 @@
         },
         {
             "id": 8,
-            "title": "Flip Card",
+            "title": "To Do List",
             "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraKistensamy.png",
-            "description": "I made a flip card, when you hover over it, it flips and shows more information.",
-            "technologies": ["HTML", "CSS"],
-            "link": "https://github.com/KeiraKistensamy/KeirasFlipCard.git",
-            "hosted": "https://keiras-flip-card.vercel.app/"
+            "description": "I made a to do list that can add items to a list, sort items in a list, scratch out items in a list and delete items in a list.",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "link": "https://github.com/KeiraKistensamy/todoList.git",
+            "hosted": "https://todo-list-liart-alpha.vercel.app/"
         }
     ]
 } 
