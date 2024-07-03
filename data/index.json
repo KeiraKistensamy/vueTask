@@ -130,7 +130,7 @@
         },
         {
             "id": 2,
-            "title": "Calculator",
+            "title": "JS Calculator",
             "description": "Created a calculator to showcase my HTML, Javascript and CSS skills.",
             "technologies": ["HTML", "CSS", "Javascript"],
             "github": "https://github.com/KeiraKistensamy/CalculatorJS.git",
@@ -138,7 +138,7 @@
         },
         {
             "id": 3,
-            "title": "Personal Portfolio",
+            "title": "Bootstrap Portfolio",
             "description": "Created a personal portfolio website to showcase my projects and skills.",
             "technologies": ["HTML", "CSS"],
             "github": "https://github.com/KeiraKistensamy/KeiraKPortfolio.git",
@@ -151,6 +151,38 @@
             "technologies": ["HTML", "CSS", "Javascript"],
             "link": "https://github.com/KeiraKistensamy/iCenterE-com.git",
             "hosted": "https://icenterecom.vercel.app/"
+        },
+        {
+            "id": 5,
+            "title": "To Do List",
+            "description": "I made a to do list that can add items to a list, sort items in a list, scratch out items in a list and delete items in a list.",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "link": "https://github.com/KeiraKistensamy/todoList.git",
+            "hosted": "https://todo-list-liart-alpha.vercel.app/"
+        },
+        {
+            "id": 6,
+            "title": "Temperature Calculator",
+            "description": "I made a temperature converter that converts temperature from degrees celcius to fahrenheit and visa versa.",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "link": "https://github.com/KeiraKistensamy/TemperatureCal.git",
+            "hosted": "https://temperature-converter-lemon.vercel.app/"
+        },
+        {
+            "id": 7,
+            "title": "Swegga",
+            "description": "I made a project where somebody can choose a color of an item, quantity that they want and it calculates automatically.",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "link": "https://github.com/KeiraKistensamy/Swegga.Keira.git",
+            "hosted": "https://swegga-keira.vercel.app/"
+        },
+        {
+            "id": 8,
+            "title": "Flip Card",
+            "description": "I made a flip card, when you hover over it, it flips and shows more information.",
+            "technologies": ["HTML", "CSS"],
+            "link": "https://github.com/KeiraKistensamy/KeirasFlipCard.git",
+            "hosted": "https://keiras-flip-card.vercel.app/"
         }
     ]
 } 
