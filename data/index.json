@@ -6,9 +6,11 @@
     ],
  
     "about": [
-        "I, Keira Kistensamy, am weaving my story with creativity, passion andpurpose. I matriculated in the year 2022, and decided to take a gap year to pursue any smallpassions I had. I studied fashion designing in 2023 and graduated from my courses. I knew i hadto go bigger than that. With a heart fueled by curiosity and a mind brimming with ideas, It tookme some time to brainstormed what i actually wanted to do.",
-        "I am a dedicated individual comited to making a positive impact in both my personallife and professional life. My unwavering determination propels me to move forward with myjourney of growth and self-discovery. My infectious energy and genuine kindness leave a mark onthose fortune to cross paths with me, making me a cherished member of any community.",
-        "I am currently a student at Life Choices Academy, studying Software Development.With a thirst for knowledge and passion for excellence, I strive to unlock my full potential andmake the most out of every opportunity I encounter."
+        "I am Keira Kistensamy, and my story is one of creativity, passion, and purpose. After matriculating in 2022, I took a gap year to explore my interests, leading me to study and graduate in fashion design in 2023. However, I knew I wanted to achieve more. Fueled by curiosity and a wealth of ideas, I spent time reflecting on my true aspirations.",
+
+        "I am dedicated to making a positive impact in both my personal and professional life. My determination drives my journey of growth and self-discovery. Known for my humor and bubbly personality, I am always wearing a smile. My energy and kindness leave a lasting impression on those I meet, making me a valued member of any community.",
+
+        "Currently, I am a student at Life Choices Academy, studying Software Development. With a thirst for knowledge and a passion for excellence, I strive to unlock my full potential and seize every opportunity that comes my way."
     ],
 
     "resume": [
@@ -26,7 +28,7 @@
         {
             "company": "Personal Sweets buisness",
             "duration": "December 2023-current",
-            "responsibilities": "" 
+            "responsibilities": "I focus on creating sweet treats. I keep things classic, sticking to the beloved traditional recipes. Each treat is carefully packaged, providing a clean and simple presentation. This simplicity extends to my promotional efforts, where I rely on the timeless appeal of these popular sweets to attract customers." 
          
         },
         {
@@ -38,7 +40,7 @@
         {
             "company": "School of Fashion",
             "duration": "2023",
-            "responsibilities": "I studied fashion designing during 2023 to do as a side hobbie." 
+            "responsibilities": "I studied fashion designing during 2023 to do as a side hobbie. I learnt pattern-making from scratch, sewing and creativity in the process." 
          
         },
         {
@@ -49,7 +51,8 @@
         },
         {
             "company": "Spine Road High School",
-            "duration": " 2018-2022  "    
+            "duration": "2018-2022",
+            "responsibilities": "I have been honored with numerous medals and certificates in recognition of my dedication and commitment in drill marching and rugby."
         }
     ],
 
