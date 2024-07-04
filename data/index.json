@@ -126,7 +126,7 @@
         {
             "id": 1, 
             "title": "Keyboard",
-            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraKistensamy.png",
+            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraKeyboard.png",
             "description": "Created a keyboard to showcase my HTML and CSS skills.",
             "technologies": ["HTML", "CSS"],
             "github": "https://github.com/KeiraKistensamy/Keyboard.git",
@@ -135,7 +135,7 @@
         {
             "id": 2,
             "title": "JS Calculator",
-            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraKistensamy.png",
+            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraJSCal.png",
             "description": "Created a calculator to showcase my HTML, Javascript and CSS skills.",
             "technologies": ["HTML", "CSS", "Javascript"],
             "github": "https://github.com/KeiraKistensamy/CalculatorJS.git",
@@ -144,7 +144,7 @@
         {
             "id": 3,
             "title": "Bootstrap Portfolio",
-            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraKistensamy.png",
+            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraBSPortfolio.png",
             "description": "Created a personal portfolio website to showcase my projects and skills.",
             "technologies": ["HTML", "CSS"],
             "github": "https://github.com/KeiraKistensamy/KeiraKPortfolio.git",
@@ -153,7 +153,7 @@
         {
             "id": 4,
             "title": "E-commerce Website",
-            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraKistensamy.png",
+            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraECom.png",
             "description": "Developed a functional e-commerce website with a shopping cart.",
             "technologies": ["HTML", "CSS", "Javascript"],
             "link": "https://github.com/KeiraKistensamy/iCenterE-com.git",
@@ -162,16 +162,16 @@
         {
             "id": 5,
             "title": "Flip Card",
-            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraKistensamy.png",
-            "description": "I made a flip card, when you hover over it, it flips and shows more information.",
+            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraFlipCard.png",
+            "description": "I made a flip card, when you hover over it, it flips on the X-axis and shows more information about myself.",
             "technologies": ["HTML", "CSS"],
             "link": "https://github.com/KeiraKistensamy/KeirasFlipCard.git",
             "hosted": "https://keiras-flip-card.vercel.app/"
         },
         {
             "id": 6,
-            "title": "Temperature Calculator",
-            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraKistensamy.png",
+            "title": "Temperature Convertor",
+            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraTempConv.png",
             "description": "I made a temperature converter that converts temperature from degrees celcius to fahrenheit and visa versa.",
             "technologies": ["HTML", "CSS", "Javascript"],
             "link": "https://github.com/KeiraKistensamy/TemperatureCal.git",
@@ -180,7 +180,7 @@
         {
             "id": 7,
             "title": "Swegga",
-            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraKistensamy.png",
+            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraSwegga.png",
             "description": "I made a project where somebody can choose a color of an item, quantity that they want and it calculates automatically.",
             "technologies": ["HTML", "CSS", "Javascript"],
             "link": "https://github.com/KeiraKistensamy/Swegga.Keira.git",
@@ -189,7 +189,7 @@
         {
             "id": 8,
             "title": "To Do List",
-            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraKistensamy.png",
+            "imgUrl": "https://keirakistensamy.github.io/allimages/images/KeiraToDoList.png",
             "description": "I made a to do list that can add items to a list, sort items in a list, scratch out items in a list and delete items in a list.",
             "technologies": ["HTML", "CSS", "Javascript"],
             "link": "https://github.com/KeiraKistensamy/todoList.git",
