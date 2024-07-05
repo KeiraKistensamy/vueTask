@@ -172,7 +172,7 @@
             "id": 6,
             "title": "Temperature Convertor",
             "imgUrl": "https://keirakistensamy.github.io/images/images/KeiraTempConv.png",
-            "description": "I made a temperature converter that converts temperature from degrees celcius to fahrenheit and visa versa.",
+            "description": "I made a temperature converter that converts temperature from Degrees Celcius to Fahrenheit and Farenheit to Degrees Celsius.",
             "technologies": ["HTML", "CSS", "Javascript"],
             "link": "https://github.com/KeiraKistensamy/TemperatureCal.git",
             "hosted": "https://temperature-converter-lemon.vercel.app/"
